@@ -3,4 +3,4 @@ A react tutorial utilizing the React-rails gem to build a simple post and commen
 
 
 
-Link to Tutorial(https://hackhands.com/react-rails-tutorial/)
+[Link to Tutorial](https://hackhands.com/react-rails-tutorial/)
